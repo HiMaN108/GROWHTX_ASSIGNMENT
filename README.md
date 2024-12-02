@@ -62,15 +62,15 @@ This will use nodemon to run the server.js file and automatically restart the se
 ### 7. Testing with Postman
 Once the server is running, you can test the API endpoints using Postman. Here's a quick overview of the available endpoints:
 
-POST /api/users/register: Register a new user.
-POST /api/users/login: Login and get a JWT token.
-POST /api/admins/register: Register a new admin.
-POST /api/admins/login: Admin login and get a JWT token.
-GET /api/assignments: Fetch assignments for the logged-in admin.
-POST /api/assignments/:id/accept: Accept an assignment.
-POST /api/assignments/:id/reject: Reject an assignment.
-POST /api/assignments/upload: Upload a new assignment (for users).
-Refer to the attached video for detailed steps on testing the API with Postman.
+POST /api/users/register: Register a new user.<br>
+POST /api/users/login: Login and get a JWT token.<br>
+POST /api/admins/register: Register a new admin.<br>
+POST /api/admins/login: Admin login and get a JWT token.<br>
+GET /api/assignments: Fetch assignments for the logged-in admin.<br>
+POST /api/assignments/:id/accept: Accept an assignment.<br>
+POST /api/assignments/:id/reject: Reject an assignment.<br>
+POST /api/assignments/upload: Upload a new assignment (for users).<br>
+Refer to the attached video for detailed steps on testing the API with Postman.<br>
 
 
 
