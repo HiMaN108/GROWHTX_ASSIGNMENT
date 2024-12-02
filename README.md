@@ -36,7 +36,7 @@ npm init -y
   }
 }
 ```
-###5 . INstall Dependencies
+### 5 . INstall Dependencies
 
 ```bash
 npm i bcrypt body-parser dotenv express jsonwebtoken mongoose
@@ -51,7 +51,7 @@ jsonwebtoken: For handling JWT authentication.
 mongoose: For interacting with MongoDB.
 
 
-###6. Run the server
+### 6. Run the server
 To start the server, run:
 ```bash
 npm run start
@@ -59,7 +59,7 @@ npm run start
 This will use nodemon to run the server.js file and automatically restart the server when changes are made.
 
 
-###7. Testing with Postman
+### 7. Testing with Postman
 Once the server is running, you can test the API endpoints using Postman. Here's a quick overview of the available endpoints:
 
 POST /api/users/register: Register a new user.
